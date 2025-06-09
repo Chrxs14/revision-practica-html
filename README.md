@@ -13,9 +13,8 @@ Crearás una aplicación web donde los usuarios pueden agregar tareas, marcarlas
 ### Criterios de Aceptación
 Los siguientes criterios son esenciales para considerar el proyecto completado exitosamente:
 
-- Interfaz de Usuario Limpia y Funcional:
-
-  - [ ]  Debe haber un campo de entrada para nuevas tareas.
+Interfaz de Usuario Limpia y Funcional:
+  - [ ] Debe haber un campo de entrada para nuevas tareas.
   - [ ] Un botón claramente visible para agregar tareas.
   - [ ] Una lista donde se muestran las tareas.
   - [ ] Cada tarea en la lista debe tener una forma de marcarla como completada y una forma de eliminarla.
@@ -61,3 +60,10 @@ Una vez que hayas completado los mínimos requeridos, puedes considerar estas me
   - [ ] Un botón para limpiar todas las tareas que han sido marcadas como completadas.
 - Organización de Código JavaScript:
   - [ ] Modularización del código JavaScript en funciones más pequeñas y bien definidas.
+
+
+## Cómo enviar para revisión
+
+Debes crear un Fork de este repositorio, realizar el desarrollo del proyecto y enviar un Pull Request con capturas de su funcionamiento y una pequeña descripción de lo realizado. La corrección se hará mediante los comentarios de ese Pull request.
+
+Exitos!
